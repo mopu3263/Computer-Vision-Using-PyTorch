@@ -1,4 +1,5 @@
 # Image-Classification-Using-PyTorch
+![](FMINST.png)
 
 Introduction:
 A machine learning classification model that is trained on the MNIST images dataset.
